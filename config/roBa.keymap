@@ -8,7 +8,6 @@
     quick-tap-ms = <0>;
     tapping-term-ms = <300>;
     require-prior-idle-ms = <0>;
-    retro-tap;
 };
 
 &trackball {
